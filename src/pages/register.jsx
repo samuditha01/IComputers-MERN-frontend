@@ -68,7 +68,7 @@ export default function RegisterPage() {
 			</div>
 			<div className="w-full lg:w-[50%] h-full  flex justify-center items-center">
 				<div className="backdrop-blur-3xl w-[450px] h-[700px] shadow-2xl rounded-lg flex flex-col justify-center">
-					<h1 className="text-3xl p-5 mt-5 text-white text-center">Isuri computers</h1>
+					<h1 className="text-3xl p-5 mt-5 text-white text-center">I computers</h1>
                     <div className="w-full h-[50px] flex items-center justify-between px-5">
                         <input
                             value={firstName}
