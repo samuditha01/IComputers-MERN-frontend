@@ -15,7 +15,7 @@ export default function Header() {
 			<div className="h-full w-full lg:w-auto flex justify-center items-center absolute lg:left-10 ">
 				<GiHamburgerMenu onClick={()=>{setIsOpen(true)}} size={30} color="white" className="mr-8 lg:hidden cursor-pointer"/>
 				<img src="/logo.png" alt="Logo" className="h-[30px] lg:h-[50px]" />
-				<h1 className="text-white text-md lg:text-2xl font-bold ml-2">Isuri Computers</h1>
+				<h1 className="text-white text-md lg:text-2xl font-bold ml-2">I Computers</h1>
 			</div>
             <div className=" h-full  lg:flex justify-center items-center hidden">
                 <Link to="/" className="text-white mx-4 hover:border-b-2">Home</Link>
