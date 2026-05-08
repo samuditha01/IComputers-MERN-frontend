@@ -11,7 +11,7 @@ import { GoogleOAuthProvider } from "@react-oauth/google";
 
 export default function App() {
 	return (
-		<GoogleOAuthProvider clientId="243017634201-b137fhgpbmv8lcehnbegdbbkihi1ccb3.apps.googleusercontent.com">
+		<GoogleOAuthProvider clientId="303788959496-j1rifrq7i9gtd1stf7i2bvajb2nrqm32.apps.googleusercontent.com">
 			<div className="w-full h-screen bg-primary text-secondary">
 				<Toaster position="top-right"/>
 				<Routes>
